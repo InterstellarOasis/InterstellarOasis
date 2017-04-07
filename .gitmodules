@@ -1,0 +1,33 @@
+[submodule "src/map-arachnid2_src.dpkdir"]
+	path = src/map-arachnid2_src.dpkdir
+	url = ../map-arachnid2_src.dpkdir.git
+[submodule "src/map-atcshd_src.dpkdir"]
+	path = src/map-atcshd_src.dpkdir
+	url = ../map-atcshd_src.dpkdir.git
+[submodule "src/map-karith_src.dpkdir"]
+	path = src/map-karith_src.dpkdir
+	url = ../map-karith_src.dpkdir.git
+[submodule "src/map-nexus6_src.dpkdir"]
+	path = src/map-nexus6_src.dpkdir
+	url = ../map-nexus6_src.dpkdir.git
+[submodule "src/map-niveus_src.dpkdir"]
+	path = src/map-niveus_src.dpkdir
+	url = ../map-niveus_src.dpkdir.git
+[submodule "src/map-rsmse_src.dpkdir"]
+	path = src/map-rsmse_src.dpkdir
+	url = ../map-rsmse_src.dpkdir.git
+[submodule "src/map-terminus_src.dpkdir"]
+	path = src/map-terminus_src.dpkdir
+	url = ../map-terminus_src.dpkdir.git
+[submodule "src/map-transit_src.dpkdir"]
+	path = src/map-transit_src.dpkdir
+	url = ../map-transit_src.dpkdir.git
+[submodule "src/map-tremor_src.dpkdir"]
+	path = src/map-tremor_src.dpkdir
+	url = ../map-tremor_src.dpkdir.git
+[submodule "src/map-uncreation_src.dpkdir"]
+	path = src/map-uncreation_src.dpkdir
+	url = ../map-uncreation_src.dpkdir.git
+[submodule "src/res-tremulous_src.dpkdir"]
+	path = src/res-tremulous_src.dpkdir
+	url = ../res-tremulous_src.dpkdir.git
