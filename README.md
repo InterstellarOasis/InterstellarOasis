@@ -106,6 +106,14 @@ Map ported from Urban Terror
 ----------------------------
 
 
+### Area³
+
+![Levelshot](https://raw.githubusercontent.com/InterstellarOasis/map-area3_src.dpkdir/master/meta/area3/area3_web.jpg)
+
+* author: Honoré “newin” Jaussoin <big.newin@gmail.com> (http://newincore.tumblr.com/)
+* porter: Thomas “illwieckz” Debesse
+* repository: https://github.com/InterstellarOasis/map-area3_src.dpkdir
+
 ### Terminus
 
 ![Levelshot](https://raw.githubusercontent.com/InterstellarOasis/map-terminus_src.dpkdir/master/meta/terminus/terminus_web.jpg)
