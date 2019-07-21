@@ -1,0 +1,52 @@
+
+   -[ general ]-----------------------------------------------------------------
+          title : advanced tactical combat simulator zone alpha
+       filename : atcszalpha.bsp
+        version : beta 1
+   release date : vendredi 08 - 09 - 2006
+       language : french (fr)
+
+   -[ credits ]-----------------------------------------------------------------
+   construction : kemilein (meta-lion | metalion | emerion | kemilein) : kemilein@gmail.com
+  original atcs : nicolas "jex" jansens | jex@orodu.net
+       textures : yves "evil lair" allaire | evillair.net
+                : simon "sock" o'callaghan | www.planetquake.com/simland
+                : nicolas "jex" jansens | jex@orodu.net
+    cheers and
+  participation : diksa, toineb, bloodshed, krom.
+
+   -[ v-alpha ]-----------------------------------------------------------------
+        support : bricosoft.com
+         tester : diksa, toineb, bloodshed, krom.
+                
+   -[ gameplay ]----------------------------------------------------------------
+      game mode : tremulous | tremulous.net
+        players : 6+
+
+   -[ construction ]------------------------------------------------------------
+     build time : three weeks
+       textures : evillair's (yves allaire) updated quake 2 texture set 
+       software : gtkradiant 1.5.0, q3map2
+       compiled : [q3map2] -meta "[MapFile]"
+                  [q3map2] -vis -saveprt "[MapFile]"
+                  [q3map2] -light -fast -filter -super 2 "[MapFile]"
+
+   -[ setting ]-----------------------------------------------------------------
+          theme : a combat training simulator pitting mercenaries against
+                  vicious aliens.
+
+   -[ legal ]-------------------------------------------------------------------
+   Please refer to the Tremulous license in the file COPYING.
+
+   -[ other notices ]-----------------------------------------------------------
+   textures by yves allaire fall under this license:
+   http://creativecommons.org/licenses/by-nd-nc/1.0/
+
+   textures from shaderlab are subject to the terms of this notice: Usage and
+   redistribution policy: Textures may be freely downloaded, modified, and used
+   in free maps, mods or total conversions provided this copyright notice is
+   left intact and a link to Shaderlab is provided in the credits or read-me
+   file.  Other non-commercial applications are considered on a case-by-case
+   basis via e-mail. All other usage requires written permission.  Bulk
+   redistribution or archival of the textures in any medium, digital or
+   otherwise (except mapping packages for mods) is prohibited.

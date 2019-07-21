@@ -1,0 +1,284 @@
+{
+"classname" "worldspawn"
+}
+{
+"classname" "info_human_intermission"
+"origin" "-199.8 1299.51 72"
+"angle" "-45"
+}
+{
+"classname" "info_alien_intermission"
+"origin" "72.0549 -2707.93 72"
+"angle" "135"
+}
+{
+"classname" "info_player_intermission"
+"origin" "-559.5 -704 286"
+"angle" "-1.4033e-014"
+}
+{
+"classname" "target_location"
+"origin" "0 8 32"
+"count" "6"
+"angle" "90"
+"message" "human's hall"
+"set" "human's hall"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*1"
+}
+{
+"classname" "target_location"
+"origin" "0 768 256"
+"count" "6"
+"angle" "-90"
+"message" "human's dafault base"
+"set" "human's dafault base"
+}
+{
+"classname" "target_location"
+"origin" "-392 -1792 32"
+"count" "6"
+"angle" "-1.4033e-014"
+"message" "alien's hall"
+"set" "alien's hall"
+}
+{
+"classname" "func_door"
+"angle" "-1"
+"model" "*2"
+}
+{
+"classname" "target_location"
+"origin" "0 -2176 256"
+"count" "6"
+"angle" "90"
+"message" "alien's dafault base"
+"set" "alien's dafault base"
+}
+{
+"classname" "target_location"
+"origin" "272 -704 -240"
+"count" "6"
+"message" "neutral bunker"
+"set" "neutral bunker"
+"angle" "180"
+}
+{
+"classname" "target_location"
+"origin" "-544 -1792 32"
+"count" "6"
+"angle" "180"
+"message" "alien's corridor"
+"set" "alien's corridor"
+}
+{
+"classname" "target_location"
+"origin" "544 384 32"
+"count" "6"
+"angle" "-1.4033e-014"
+"message" "human's corridor"
+"set" "human's corridor"
+}
+{
+"classname" "target_location"
+"origin" "-272 -704 -240"
+"count" "6"
+"message" "neutral bunker"
+"set" "neutral bunker"
+"angle" "-3.50824e-015"
+}
+{
+"classname" "target_location"
+"origin" "-312 -704 -240"
+"count" "6"
+"angle" "180"
+"message" "alien's corridor"
+"set" "alien's corridor"
+}
+{
+"classname" "target_location"
+"origin" "320 -704 -240"
+"count" "6"
+"angle" "-1.4033e-014"
+"message" "human's corridor"
+"set" "human's corridor"
+}
+{
+"classname" "target_location"
+"origin" "0 -32 32"
+"count" "6"
+"angle" "-90"
+"message" "neutral center"
+"set" "neutral center"
+}
+{
+"classname" "target_location"
+"origin" "0 -1376 32"
+"count" "6"
+"angle" "90"
+"message" "neutral center"
+"set" "neutral center"
+}
+{
+"classname" "target_location"
+"origin" "0 -2256 256"
+"count" "6"
+"angle" "-90"
+"message" "alien's hall"
+"set" "alien's hall"
+}
+{
+"classname" "target_location"
+"origin" "384 -1504 416"
+"count" "6"
+"angle" "-90"
+"message" "alien's dafault base"
+"set" "alien's dafault base"
+}
+{
+"classname" "target_location"
+"origin" "384 -1488 416"
+"count" "6"
+"angle" "90"
+"message" "neutral center"
+"set" "neutral center"
+}
+{
+"classname" "target_location"
+"origin" "0 -1416 32"
+"count" "6"
+"angle" "-90"
+"message" "alien's hall"
+"set" "alien's hall"
+}
+{
+"classname" "target_location"
+"origin" "416 384 32"
+"count" "6"
+"angle" "180"
+"message" "human's hall"
+"set" "human's hall"
+}
+{
+"classname" "target_location"
+"origin" "0 840 256"
+"count" "6"
+"angle" "90"
+"message" "human's hall"
+"set" "human's hall"
+}
+{
+"classname" "target_location"
+"origin" "-384 96 416"
+"count" "6"
+"angle" "90"
+"message" "human's dafault base"
+"set" "human's dafault base"
+}
+{
+"classname" "target_location"
+"origin" "-384 80 416"
+"count" "6"
+"angle" "-90"
+"message" "neutral center"
+"set" "neutral center"
+}
+{
+"classname" "team_alien_overmind"
+"origin" "-488 -2112 400"
+"angle" "-139.557"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-480 -1984 400"
+"angle" "-1.4033e-014"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-352 -2112 400"
+"angle" "-1.4033e-014"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "-192 -2152 208"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "-192 -1960 208"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "192 -2152 208"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "192 -1960 208"
+}
+{
+"classname" "team_human_reactor"
+"origin" "496 720 384"
+"angle" "42.6704"
+}
+{
+"classname" "team_human_armoury"
+"origin" "512 512 384"
+"angle" "90"
+}
+{
+"classname" "team_human_spawn"
+"origin" "496 624 384"
+}
+{
+"classname" "team_human_medistat"
+"origin" "432 512 384"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "368 544 384"
+"angle" "180"
+}
+{
+"classname" "team_human_repeater"
+"origin" "256 1216 32"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "-64 1184 32"
+"angle" "-90"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "64 1184 32"
+"angle" "-90"
+}
+{
+"classname" "team_human_spawn"
+"origin" "416 624 384"
+}
+{
+"classname" "team_human_mgturret"
+"origin" "368 704 384"
+"angle" "180"
+}
+{
+"classname" "team_alien_acid_tube"
+"origin" "-224 -1608 336"
+}
+{
+"classname" "info_human_intermission"
+"origin" "-199.8 1295.51 72"
+"angle" "-45"
+}
+{
+"classname" "team_alien_spawn"
+"origin" "-384 -2016 400"
+"angle" "-1.4033e-014"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "3"
+"model" "*3"
+}
