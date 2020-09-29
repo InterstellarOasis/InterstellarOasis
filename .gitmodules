@@ -1,6 +1,9 @@
 [submodule "src/map-arachnid2_src.dpkdir"]
 	path = src/map-arachnid2_src.dpkdir
 	url = ../map-arachnid2_src.dpkdir.git
+[submodule "src/map-area3_src.dpkdir"]
+	path = src/map-area3_src.dpkdir
+	url = ../map-area3_src.dpkdir
 [submodule "src/map-atcshd_src.dpkdir"]
 	path = src/map-atcshd_src.dpkdir
 	url = ../map-atcshd_src.dpkdir.git
@@ -70,6 +73,3 @@
 [submodule "src/res-tremulous_src.dpkdir"]
 	path = src/res-tremulous_src.dpkdir
 	url = ../res-tremulous_src.dpkdir.git
-[submodule "src/map-area3_src.dpkdir"]
-	path = src/map-area3_src.dpkdir
-	url = ../map-area3_src.dpkdir
