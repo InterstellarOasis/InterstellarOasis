@@ -1,4 +1,0 @@
-Require:
-textures/atcs/
-textures/eq2/
-textures/derelictb/
