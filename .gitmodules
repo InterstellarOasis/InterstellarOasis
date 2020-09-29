@@ -4,18 +4,48 @@
 [submodule "src/map-atcshd_src.dpkdir"]
 	path = src/map-atcshd_src.dpkdir
 	url = ../map-atcshd_src.dpkdir.git
+[submodule "src/map-atcszalpha_src.dpkdir"]
+	path = src/map-atcszalpha_src.dpkdir
+	url = ../map-atcszalpha_src.dpkdir
+[submodule "src/map-bluedragon_src.dpkdir"]
+	path = src/map-bluedragon_src.dpkdir
+	url = ../map-bluedragon_src.dpkdir
+[submodule "src/map-citadel_src.dpkdir"]
+	path = src/map-citadel_src.dpkdir
+	url = ../map-citadel_src.dpkdir
+[submodule "src/map-cruz_src.dpkdir"]
+	path = src/map-cruz_src.dpkdir
+	url = ../map-cruz_src.dpkdir
+[submodule "src/map-eden_src.dpkdir"]
+	path = src/map-eden_src.dpkdir
+	url = ../map-eden_src.dpkdir
 [submodule "src/map-karith_src.dpkdir"]
 	path = src/map-karith_src.dpkdir
 	url = ../map-karith_src.dpkdir.git
+[submodule "src/map-methane_src.dpkdir"]
+	path = src/map-methane_src.dpkdir
+	url = ../map-methane_src.dpkdir
+[submodule "src/map-nano_src.dpkdir"]
+	path = src/map-nano_src.dpkdir
+	url = ../map-nano_src.dpkdir
 [submodule "src/map-nexus6_src.dpkdir"]
 	path = src/map-nexus6_src.dpkdir
 	url = ../map-nexus6_src.dpkdir.git
 [submodule "src/map-niveus_src.dpkdir"]
 	path = src/map-niveus_src.dpkdir
 	url = ../map-niveus_src.dpkdir.git
+[submodule "src/map-orion_src.dpkdir"]
+	path = src/map-orion_src.dpkdir
+	url = ../map-orion_src.dpkdir
+[submodule "src/map-procyon_src.dpkdir"]
+	path = src/map-procyon_src.dpkdir
+	url = ../map-procyon_src.dpkdir
 [submodule "src/map-rsmse_src.dpkdir"]
 	path = src/map-rsmse_src.dpkdir
 	url = ../map-rsmse_src.dpkdir.git
+[submodule "src/map-sirius_src.dpkdir"]
+	path = src/map-sirius_src.dpkdir
+	url = ../map-sirius_src.dpkdir
 [submodule "src/map-terminus_src.dpkdir"]
 	path = src/map-terminus_src.dpkdir
 	url = ../map-terminus_src.dpkdir.git
@@ -28,6 +58,15 @@
 [submodule "src/map-uncreation_src.dpkdir"]
 	path = src/map-uncreation_src.dpkdir
 	url = ../map-uncreation_src.dpkdir.git
+[submodule "src/map-utcs_src.dpkdir"]
+	path = src/map-utcs_src.dpkdir
+	url = ../map-utcs_src.dpkdir
+[submodule "src/map-veddak_src.dpkdir"]
+	path = src/map-veddak_src.dpkdir
+	url = ../map-veddak_src.dpkdir
+[submodule "src/map-wrecktify_src.dpkdir"]
+	path = src/map-wrecktify_src.dpkdir
+	url = ../map-wrecktify_src.dpkdir
 [submodule "src/res-tremulous_src.dpkdir"]
 	path = src/res-tremulous_src.dpkdir
 	url = ../res-tremulous_src.dpkdir.git
