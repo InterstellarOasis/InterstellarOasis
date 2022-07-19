@@ -22,6 +22,9 @@
 [submodule "src/map-eden_src.dpkdir"]
 	path = src/map-eden_src.dpkdir
 	url = ../map-eden_src.dpkdir
+[submodule "src/map-gloom2_src.dpkdir"]
+	path = src/map-gloom2_src.dpkdir
+	url = ../map-gloom2_src.dpkdir.git
 [submodule "src/map-karith_src.dpkdir"]
 	path = src/map-karith_src.dpkdir
 	url = ../map-karith_src.dpkdir.git
