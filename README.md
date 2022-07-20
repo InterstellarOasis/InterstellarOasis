@@ -25,6 +25,10 @@ Tremulous community maps formerly distribued with early Unvanquished versions, u
 - **Veddak**: [map-veddak_src.dpkdir](https://github.com/InterstellarOasis/map-veddak_src.dpkdir)
 - **Wrecktify**: [map-wrecktify_src.dpkdir](https://github.com/InterstellarOasis/map-wrecktify_src.dpkdir)
 
+Other tremulous community maps:
+
+- **Gloom2**: [map-gloom2_src.dpkdir](https://github.com/InterstellarOasis/map-gloom2_src.dpkdir)
+
 
 Resources and maps ported from Tremulous
 ----------------------------------------
