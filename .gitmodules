@@ -46,6 +46,9 @@
 [submodule "src/map-procyon_src.dpkdir"]
 	path = src/map-procyon_src.dpkdir
 	url = ../map-procyon_src.dpkdir.git
+[submodule "src/map-pulse_src.dpkdir"]
+	path = src/map-pulse_src.dpkdir
+	url = ../map-pulse_src.dpkdir.git
 [submodule "src/map-rsmse_src.dpkdir"]
 	path = src/map-rsmse_src.dpkdir
 	url = ../map-rsmse_src.dpkdir.git
