@@ -31,6 +31,9 @@
 [submodule "src/map-methane_src.dpkdir"]
 	path = src/map-methane_src.dpkdir
 	url = ../map-methane_src.dpkdir.git
+[submodule "src/map-moonbase_src.dpkdir"]
+	path = src/map-moonbase_src.dpkdir
+	url = ../map-moonbase_src.dpkdir.git
 [submodule "src/map-nano_src.dpkdir"]
 	path = src/map-nano_src.dpkdir
 	url = ../map-nano_src.dpkdir.git
