@@ -71,9 +71,12 @@ Porting effort:
 
 Original files are distributed under various licenses. See related packages for more information.
 
-Changes by Thomas Debesse fall under the Creative Commons Attribution 4.0 International License:  
+Changes by Thomas Debesse and Sweet/sweet235 fall under the Creative Commons Attribution 4.0 International License:
 http://creativecommons.org/licenses/by/4.0/
 
+## Other Map Collections
+
+A comprehensive collection of original open source maps is at https://github.com/Masmblr. They are all usable with the Daemon Engine and Unvanquished.
 
 ## Thanks
 
